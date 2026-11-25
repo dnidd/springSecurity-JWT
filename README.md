@@ -71,7 +71,7 @@ Generate secret key in terminal:
  openssl rand -base64 32
 ````
 
-🔵The secret key is set as environment variable.
+🔵 The secret key is set as environment variable.
 
 <br>
 SecretKey is fetched in application.properties:
