@@ -16,8 +16,8 @@ public class ProductController {
     // List representing mockup DB
     List<Product> products = new ArrayList<>(
             List.of(
-                    new Product(1, "Trekking shoes", 109.0),
-                    new Product(2, "Hiking pants", 209.0)
+                    new Product(1, "Trekking shoes", 119.0),
+                    new Product(2, "Hiking pants", 219.0)
             )
     );
 
