@@ -71,9 +71,8 @@ Generate secret key in terminal:
  openssl rand -base64 32
 ````
 
-<span style="color:lightseagreen">
-The secret key is set as environment variable.
-</span>
+🔵The secret key is set as environment variable.
+
 <br>
 SecretKey is fetched in application.properties:
 
@@ -126,11 +125,7 @@ username and password for every request.
 
 <span style="color:white">––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</span>
 
-<br><br>
-<span style="color:#E76F00"> Color </span>
-<br><br>
-<span style="color:orange">Color</span>
-<br><br>
+
 🔴🟠🟡🟢🔵🟣🟤⚫⚪
 
 
