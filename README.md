@@ -73,8 +73,8 @@ Generate secret key in terminal:
 
 🔵 The secret key is set as environment variable.
 
-<br>
-SecretKey is fetched in application.properties:
+
+🔵 SecretKey is fetched in application.properties:
 
 ````
 jwt.secret=${JWT_SECRET}
